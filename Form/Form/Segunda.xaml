@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Form.Segunda">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="Nombre"  Text="{Binding Name}" FontSize="25" Padding="20,1"/>
+            <Label x:Name="Apellido" Text="{Binding LastName}" FontSize="25" Padding="20,1"/>
+            <Label x:Name="Edad"    Text="{Binding Age}" FontSize="25" Padding="20,1"/>
+            <Label x:Name="Correo"  Text="{Binding Email}" FontSize="25" Padding="20,1"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

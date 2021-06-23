@@ -1,0 +1,15 @@
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\bin\Debug\netstandard2.0\Form.deps.json
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\bin\Debug\netstandard2.0\Form.dll
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\bin\Debug\netstandard2.0\ref\Form.dll
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\bin\Debug\netstandard2.0\Form.pdb
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\obj\Debug\netstandard2.0\Form.csproj.AssemblyReference.cache
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\obj\Debug\netstandard2.0\Segunda.xaml.g.cs
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\obj\Debug\netstandard2.0\Form.AssemblyInfoInputs.cache
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\obj\Debug\netstandard2.0\Form.AssemblyInfo.cs
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\obj\Debug\netstandard2.0\Form.csproj.CoreCompileInputs.cache
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\obj\Debug\netstandard2.0\Form.dll
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\obj\Debug\netstandard2.0\ref\Form.dll
+C:\Users\Marvin Pineda\source\repos\Form\Form\Form\obj\Debug\netstandard2.0\Form.pdb
